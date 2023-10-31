@@ -1,1 +1,1 @@
-# PHP-Crud-App
+# Student Registration
